@@ -1,0 +1,13 @@
+I:\9no Semestre\Grafica\Projects\CarBasic\CarBasic\bin\Debug\CarBasic.exe.config
+I:\9no Semestre\Grafica\Projects\CarBasic\CarBasic\bin\Debug\CarBasic.exe
+I:\9no Semestre\Grafica\Projects\CarBasic\CarBasic\bin\Debug\CarBasic.pdb
+I:\9no Semestre\Grafica\Projects\CarBasic\CarBasic\bin\Debug\OpenTK.dll
+I:\9no Semestre\Grafica\Projects\CarBasic\CarBasic\bin\Debug\OpenTK.pdb
+I:\9no Semestre\Grafica\Projects\CarBasic\CarBasic\bin\Debug\OpenTK.xml
+I:\9no Semestre\Grafica\Projects\CarBasic\CarBasic\obj\Debug\CarBasic.csprojAssemblyReference.cache
+I:\9no Semestre\Grafica\Projects\CarBasic\CarBasic\obj\Debug\CarBasic.Properties.Resources.resources
+I:\9no Semestre\Grafica\Projects\CarBasic\CarBasic\obj\Debug\CarBasic.csproj.GenerateResource.cache
+I:\9no Semestre\Grafica\Projects\CarBasic\CarBasic\obj\Debug\CarBasic.csproj.CoreCompileInputs.cache
+I:\9no Semestre\Grafica\Projects\CarBasic\CarBasic\obj\Debug\CarBasic.csproj.CopyComplete
+I:\9no Semestre\Grafica\Projects\CarBasic\CarBasic\obj\Debug\CarBasic.exe
+I:\9no Semestre\Grafica\Projects\CarBasic\CarBasic\obj\Debug\CarBasic.pdb
